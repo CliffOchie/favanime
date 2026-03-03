@@ -1,3 +1,5 @@
+[Vencord Plugin](https://docs.vencord.dev/installing/custom-plugins/)
+
 # FavAnime
 
 Show your favorite and most hated anime on your Discord profile.
