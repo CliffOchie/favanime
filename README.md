@@ -1,3 +1,7 @@
+### Use [SuperBoard](https://github.com/GokayPlus/superboard) for Better Experience.
+
+
+
 [Vencord Plugin](https://docs.vencord.dev/installing/custom-plugins/)
 
 # FavAnime
